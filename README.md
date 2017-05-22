@@ -1,0 +1,2 @@
+# HRANALYTICS
+To measure Absenteiism 
